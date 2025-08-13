@@ -2,7 +2,6 @@
 
 Este proyecto es una pequeña aplicación web para organizar el clásico juego del **Amigo Secreto**.  
 Permite que los usuarios ingresen nombres de amigos, los visualicen en una lista y luego realicen un sorteo aleatorio para conocer quién será su amigo secreto.
-
 ---
 
 ## **Características principales**
